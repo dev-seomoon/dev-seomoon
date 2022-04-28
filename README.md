@@ -19,6 +19,6 @@
 
 
 ### 📫 Channels
-- seomoon.frontend@gmail.com
-- blog: [https://seomoon.tech](https://seomoon.tech)
-- porfolio: [https://dev-seomoon.github.io](https://dev-seomoon.github.io)
+- 이메일 : seomoon.frontend@gmail.com
+- 블로그 : [https://seomoon.tech](https://seomoon.tech)
+- **이력서 : [https://dev-seomoon.github.io](https://dev-seomoon.github.io)**

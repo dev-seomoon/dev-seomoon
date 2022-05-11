@@ -1,6 +1,6 @@
 ## 문선경(dev-seomoon) : Front-End Developer
 ### 🔭 Currently working on
-- 가슴속3천원 랜딩페이지 로딩 속도 최적화
+- 웨일 브라우저 확장 앱 "매일웨일" 리팩토링, v2.0 준비
 
 ### 💻 What I did
 - 가슴속 3천원 웹 랜딩 페이지 개발
